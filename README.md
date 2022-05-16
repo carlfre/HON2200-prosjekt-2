@@ -1,2 +1,3 @@
 # HON2200-prosjekt-2
  
+Jupyter-notebooken er ikke skrevet for å kunne kjøres lokalt. Den er heller skrevet for å kunne kjøres som notebook i kaggle. Det er begrunnelsen bak enkelte valg som å legge inn en installeringskommando for pystiche-pakken, og det er også grunnen til at det ikke er noen importering av data i notebooken. All data kan finnes i data-mappen, og må lastes opp manuelt for å kjøre koden. 
